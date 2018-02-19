@@ -16,7 +16,7 @@
   "dependencies": {
     "echarts": "^4.0.2",
     "element-ui": "^2.2.0",
-    "time-formatter": "^1.0.2",
+    "time-formater": "^1.0.1",
     "vue": "^2.5.2",
     "vue-quill-editor": "^3.0.5",
     "vue-router": "^3.0.1",
